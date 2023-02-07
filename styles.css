@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;    
+}
+body
+{
+    background-color: yellow;
+}
+#city
+{
+    box-sizing: border-box;
+    background: inherit;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    outline: none;
+    color: darkviolet;
+    font-family: 'Monteserrat',sans-serif;
+    font-weight: bold;
+    font-size: inherit;
+}
+#country,#result,#time
+{
+    font-weight: bold;
+    font-family: 'Monteserrat',sans-serif;
+    text-align: center;
+}
+table
+{
+    margin:auto;
+}
+ .foo
+{
+    font-family: 'Monteserrat',sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
